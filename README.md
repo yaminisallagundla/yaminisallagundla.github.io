@@ -1,6 +1,6 @@
-# My-Basic-Portfolio
+# My-Portfolio
 
-This was my first portfolio website. Later was improvised and changed. My latest portfolio is https://aashishvardhan.github.io
+This is my portfolio website. Later was improvised and changed. My latest portfolio is https://yaminisallagundla.github.io
 
 <br>
-:) Aashish Vardhan
+:) Yamini Sallagundla
