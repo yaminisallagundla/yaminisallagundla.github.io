@@ -1,6 +1,6 @@
-# My-Portfolio
+# Portfolio
 
-This is my portfolio website. Later was improvised and changed. My latest portfolio is https://yaminisallagundla.github.io
+This is my portfolio website. The whole website is built around basic knowledge of HTML and CSS. Visit at https://yaminisallagundla.github.io
 
 <br>
 :) Yamini Sallagundla
